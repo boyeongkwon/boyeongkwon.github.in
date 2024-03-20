@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "Blue",
+      "content": "Beauty",
+      "price": 100000,
+      "Char":"1+1 이벤트😊"
+    },
+    {
+      "id": 1,
+      "name": "Chick",
+      "content": "little bit small",
+      "price": 120000,
+      "Char":"1+1 이벤트😊"
+    },
+    {
+      "id": 2,
+      "name": "UFO",
+      "content": "diamond shape",
+      "price": 100000,
+      "Char":"2개 구매 시 할인🙂"
+    },
+    {
+      "id": 3,
+      "name": "GoGo",
+      "content": "Big data based",
+      "price": 140000,
+      "Char":"신제품💜"
+    },
+    {
+      "id": 4,
+      "name": "Baby shoes",
+      "content": "for less than 6",
+      "price": 70000,
+      "Char":"신제품💜"
+    },
+    {
+      "id": 5,
+      "name": "Red Herring",
+      "content": "Born in France",
+      "price": 150000,
+      "Char":"신제품💜"
+    },
+    {
+      "id": 6,
+      "name": "Account",
+      "content": "Making bank account",
+      "price": 140000,
+      "Char":"2개 구매 시 할인🙂"
+    },
+    {
+      "id": 7,
+      "name": "Cinema",
+      "content": "meaning movement",
+      "price": 110000,
+      "Char":"1+1 이벤트😊"
+    },
+    {
+      "id": 8,
+      "name": "The Call",
+      "content": "evolutionary origins",
+      "price": 90000,
+      "Char":"2개 구매 시 할인🙂"
+    }
+]
