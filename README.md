@@ -11,7 +11,7 @@ CSS
 
 JavaScript
 
-GitHub Pages（ホスティング
+GitHub Pages（ホスティング)
 
 ## ディレクトリ構造
 プロジェクトの主要なディレクトリとファイルは以下のとおりです。
