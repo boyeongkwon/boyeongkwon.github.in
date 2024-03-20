@@ -5,11 +5,12 @@
 このプロジェクトは、個人ポートフォリオウェブサイトのための静的ページをホスティングするために使用されます。
 
 ## 技術スタック
-HTML
 
-CSS
+react
 
-JavaScript
+axios
+
+local storage
 
 GitHub Pages（ホスティング)
 
