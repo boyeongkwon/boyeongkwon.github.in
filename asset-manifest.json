@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shoppingmall/static/css/main.e7860556.css",
-    "main.js": "/shoppingmall/static/js/main.d7be4d58.js",
+    "main.js": "/shoppingmall/static/js/main.3306ce5f.js",
     "static/js/453.b16768da.chunk.js": "/shoppingmall/static/js/453.b16768da.chunk.js",
     "static/media/shoes-art.webp": "/shoppingmall/static/media/shoes-art.f8597018fd82c950b167.webp",
     "index.html": "/shoppingmall/index.html",
     "main.e7860556.css.map": "/shoppingmall/static/css/main.e7860556.css.map",
-    "main.d7be4d58.js.map": "/shoppingmall/static/js/main.d7be4d58.js.map",
+    "main.3306ce5f.js.map": "/shoppingmall/static/js/main.3306ce5f.js.map",
     "453.b16768da.chunk.js.map": "/shoppingmall/static/js/453.b16768da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7860556.css",
-    "static/js/main.d7be4d58.js"
+    "static/js/main.3306ce5f.js"
   ]
 }
