@@ -1,64 +1,64 @@
 [
     {
       "id": 0,
-      "name": "Blue",
-      "content": "Beauty",
+      "name": "スリッポンライト",
+      "content": "スニーカー",
       "price": 10000,
       "Char":"1+1 イベント😊"
     },
     {
       "id": 1,
-      "name": "Chick",
-      "content": "little bit small",
+      "name": "スウィッチラン W",
+      "content": "ランニングシューズ",
       "price": 12000,
       "Char":"1+1 イベント😊"
     },
     {
       "id": 2,
-      "name": "UFO",
-      "content": "diamond shape",
+      "name": "マノア レザー",
+      "content": "ブーツ",
       "price": 10000,
       "Char":"10%セール🙂"
     },
     {
       "id": 3,
-      "name": "GoGo",
-      "content": "Big data based",
+      "name": "オールスター パデッドベルト サンダル",
+      "content": "サンダル",
       "price": 14000,
       "Char":"新製品💜"
     },
     {
       "id": 4,
-      "name": "Baby shoes",
-      "content": "for less than 6",
+      "name": "LCS LAMOTTE II",
+      "content": "キッズレインブーツ",
       "price": 7000,
       "Char":"新製品💜"
     },
     {
       "id": 5,
-      "name": "Red Herring",
-      "content": "Born in France",
+      "name": "WCO696",
+      "content": "テニスシューズ",
       "price": 15000,
       "Char":"新製品💜"
     },
     {
       "id": 6,
-      "name": "Account",
-      "content": "Making bank account",
+      "name": "洗えるローファー",
+      "content": "ローファー",
       "price": 10000,
       "Char":"10%セール🙂"
     },
     {
       "id": 7,
-      "name": "Cinema",
-      "content": "meaning movement",
+      "name": "マウント 599",
+      "content": "アウトドアシューズ",
       "price": 10000,
       "Char":"1+1 イベント😊"
     },
     {
       "id": 8,
-      "name": "The Call",
-      "content": "evolutionary origins",
+      "name": "キング トップ IT",
+      "content": "サッカーシューズ",
       "price": 9000,
       "Char":"10%セール🙂"
     }
